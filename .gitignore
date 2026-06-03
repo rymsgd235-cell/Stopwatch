@@ -5,6 +5,9 @@ out/
 build/
 target/
 
+# VS Code
+.vscode/
+
 # VS Code Java generated metadata
 .classpath
 .project
